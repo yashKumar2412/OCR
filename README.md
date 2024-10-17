@@ -6,3 +6,5 @@ There are two main components involved:
 2. UI webpage - This is a simple UI where you can upload images to be sent to the flask application, and it displays the extracted text.
 
 Some sample images containing text are also present in the Sample Images folder.
+
+Please refer the OCR Assignment Report for detailed information.
